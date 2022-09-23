@@ -1,0 +1,2 @@
+2022-09-23 16:26:03,751 +0530 [main] DEBUG (MyClass.java:14) - Hello this is a debug message
+2022-09-23 16:26:03,757 +0530 [main] INFO  (MyClass.java:15) - Hello this is an info message
